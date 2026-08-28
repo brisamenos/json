@@ -1,0 +1,3271 @@
+{
+  "_versao": 1,
+  "_exportado": "2026-08-28T14:39:43.809Z",
+  "_nome": "Lory",
+  "categorias": [
+    {
+      "name": "acai_no_copo",
+      "label": "Açaí no Copo",
+      "type": "Itens principais",
+      "promo": false,
+      "itens": [
+        {
+          "name": "Na compra de 1 copo de 300ml o 2° sai por apenas 7,99",
+          "emoji": "🍨",
+          "description": "",
+          "price": 18.99,
+          "price_old": null,
+          "image_url": "/uploads/76878dad37e3fa45_88b0f46b239811cc0ba5.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "Açaí",
+              "tipo": "radio",
+              "required": false,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "Açaí Tradicional",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Cremes",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Creme de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme Energético",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ninho",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Cupuaçu",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ovomaltine",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Oreo",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Complementos",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 4,
+              "opcoes": [
+                {
+                  "nome": "Disquete",
+                  "preco": 0
+                },
+                {
+                  "nome": "Gotas de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Coco Ralado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Jujuba",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim Doce",
+                  "preco": 0
+                },
+                {
+                  "nome": "Canudos Wafer",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim",
+                  "preco": 0
+                },
+                {
+                  "nome": "Farinha Láctea",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granola",
+                  "preco": 0
+                },
+                {
+                  "nome": "Castanha",
+                  "preco": 0
+                },
+                {
+                  "nome": "Fini",
+                  "preco": 0
+                },
+                {
+                  "nome": "Leite em Pó",
+                  "preco": 0
+                },
+                {
+                  "nome": "Sucrilhos",
+                  "preco": 0
+                },
+                {
+                  "nome": "Chocoball",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Arroz",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granulado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cereja",
+                  "preco": 0
+                },
+                {
+                  "nome": "Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Banana",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Coberturas",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Cobertura de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Leite Condensado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Abacaxi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Limão Galego",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Uva",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Açaí",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Nutella",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Coockies",
+                  "preco": 0
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "SUPER COMBO Copo de 400ml + Copo de 300ml",
+          "emoji": "🍨",
+          "description": "",
+          "price": 19.99,
+          "price_old": 24,
+          "image_url": "/uploads/76878dad37e3fa45_eb78db7ec1417d45568f.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "Açaí",
+              "tipo": "radio",
+              "required": false,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "Açaí Tradicional",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Cremes",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Creme de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme Energético",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ninho",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Cupuaçu",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ovomaltine",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Oreo",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Complementos",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 4,
+              "opcoes": [
+                {
+                  "nome": "Disquete",
+                  "preco": 0
+                },
+                {
+                  "nome": "Gotas de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Coco Ralado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Jujuba",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim Doce",
+                  "preco": 0
+                },
+                {
+                  "nome": "Canudos Wafer",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim",
+                  "preco": 0
+                },
+                {
+                  "nome": "Farinha Láctea",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granola",
+                  "preco": 0
+                },
+                {
+                  "nome": "Castanha",
+                  "preco": 0
+                },
+                {
+                  "nome": "Fini",
+                  "preco": 0
+                },
+                {
+                  "nome": "Leite em Pó",
+                  "preco": 0
+                },
+                {
+                  "nome": "Sucrilhos",
+                  "preco": 0
+                },
+                {
+                  "nome": "Chocoball",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Arroz",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granulado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cereja",
+                  "preco": 0
+                },
+                {
+                  "nome": "Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Banana",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Coberturas",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Cobertura de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Leite Condensado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Abacaxi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Limão Galego",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Uva",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Açaí",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Nutella",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Coockies",
+                  "preco": 0
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Açaí no Copo | 300ml",
+          "emoji": "🍨",
+          "description": "",
+          "price": 11,
+          "price_old": null,
+          "image_url": "/uploads/76878dad37e3fa45_88b0f46b239811cc0ba5.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "Açaí",
+              "tipo": "radio",
+              "required": false,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "Açaí Tradicional",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Cremes",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Creme de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme Energético",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ninho",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Cupuaçu",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ovomaltine",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Oreo",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Complementos",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 4,
+              "opcoes": [
+                {
+                  "nome": "Disquete",
+                  "preco": 0
+                },
+                {
+                  "nome": "Gotas de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Coco Ralado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Jujuba",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim Doce",
+                  "preco": 0
+                },
+                {
+                  "nome": "Canudos Wafer",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim",
+                  "preco": 0
+                },
+                {
+                  "nome": "Farinha Láctea",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granola",
+                  "preco": 0
+                },
+                {
+                  "nome": "Castanha",
+                  "preco": 0
+                },
+                {
+                  "nome": "Fini",
+                  "preco": 0
+                },
+                {
+                  "nome": "Leite em Pó",
+                  "preco": 0
+                },
+                {
+                  "nome": "Sucrilhos",
+                  "preco": 0
+                },
+                {
+                  "nome": "Chocoball",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Arroz",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granulado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cereja",
+                  "preco": 0
+                },
+                {
+                  "nome": "Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Banana",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Coberturas",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Cobertura de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Leite Condensado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Abacaxi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Limão Galego",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Uva",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Açaí",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Nutella",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Coockies",
+                  "preco": 0
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Açaí no Copo | 400ml",
+          "emoji": "🍨",
+          "description": "",
+          "price": 13,
+          "price_old": null,
+          "image_url": "/uploads/76878dad37e3fa45_57fec75c75ff8d47995e.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "Açaí",
+              "tipo": "radio",
+              "required": false,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "Açaí Tradicional",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Cremes",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Creme de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme Energético",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ninho",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Cupuaçu",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ovomaltine",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Oreo",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Complementos",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 4,
+              "opcoes": [
+                {
+                  "nome": "Disquete",
+                  "preco": 0
+                },
+                {
+                  "nome": "Gotas de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Coco Ralado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Jujuba",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim Doce",
+                  "preco": 0
+                },
+                {
+                  "nome": "Canudos Wafer",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim",
+                  "preco": 0
+                },
+                {
+                  "nome": "Farinha Láctea",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granola",
+                  "preco": 0
+                },
+                {
+                  "nome": "Castanha",
+                  "preco": 0
+                },
+                {
+                  "nome": "Fini",
+                  "preco": 0
+                },
+                {
+                  "nome": "Leite em Pó",
+                  "preco": 0
+                },
+                {
+                  "nome": "Sucrilhos",
+                  "preco": 0
+                },
+                {
+                  "nome": "Chocoball",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Arroz",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granulado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cereja",
+                  "preco": 0
+                },
+                {
+                  "nome": "Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Banana",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Coberturas",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Cobertura de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Leite Condensado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Abacaxi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Limão Galego",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Uva",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Açaí",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Nutella",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Coockies",
+                  "preco": 0
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Açaí no Copo | 500ml",
+          "emoji": "🍨",
+          "description": "",
+          "price": 16,
+          "price_old": null,
+          "image_url": "/uploads/76878dad37e3fa45_a5ce005ba928616a2a30.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "Açaí",
+              "tipo": "radio",
+              "required": false,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "Açaí Tradicional",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Cremes",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Creme de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme Energético",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ninho",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Cupuaçu",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ovomaltine",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Oreo",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Complementos",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 4,
+              "opcoes": [
+                {
+                  "nome": "Disquete",
+                  "preco": 0
+                },
+                {
+                  "nome": "Gotas de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Coco Ralado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Jujuba",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim Doce",
+                  "preco": 0
+                },
+                {
+                  "nome": "Canudos Wafer",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim",
+                  "preco": 0
+                },
+                {
+                  "nome": "Farinha Láctea",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granola",
+                  "preco": 0
+                },
+                {
+                  "nome": "Castanha",
+                  "preco": 0
+                },
+                {
+                  "nome": "Fini",
+                  "preco": 0
+                },
+                {
+                  "nome": "Leite em Pó",
+                  "preco": 0
+                },
+                {
+                  "nome": "Sucrilhos",
+                  "preco": 0
+                },
+                {
+                  "nome": "Chocoball",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Arroz",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granulado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cereja",
+                  "preco": 0
+                },
+                {
+                  "nome": "Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Banana",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Coberturas",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Cobertura de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Leite Condensado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Abacaxi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Limão Galego",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Uva",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Açaí",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Nutella",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Coockies",
+                  "preco": 0
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Açaí no Copo | 700ml",
+          "emoji": "🍨",
+          "description": "",
+          "price": 26,
+          "price_old": null,
+          "image_url": "/uploads/76878dad37e3fa45_a5ce005ba928616a2a30.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "Açaí",
+              "tipo": "radio",
+              "required": false,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "Açaí Tradicional",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Cremes",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Creme de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme Energético",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ninho",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Cupuaçu",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ovomaltine",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Oreo",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Complementos",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 4,
+              "opcoes": [
+                {
+                  "nome": "Disquete",
+                  "preco": 0
+                },
+                {
+                  "nome": "Gotas de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Coco Ralado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Jujuba",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim Doce",
+                  "preco": 0
+                },
+                {
+                  "nome": "Canudos Wafer",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim",
+                  "preco": 0
+                },
+                {
+                  "nome": "Farinha Láctea",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granola",
+                  "preco": 0
+                },
+                {
+                  "nome": "Castanha",
+                  "preco": 0
+                },
+                {
+                  "nome": "Fini",
+                  "preco": 0
+                },
+                {
+                  "nome": "Leite em Pó",
+                  "preco": 0
+                },
+                {
+                  "nome": "Sucrilhos",
+                  "preco": 0
+                },
+                {
+                  "nome": "Chocoball",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Arroz",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granulado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cereja",
+                  "preco": 0
+                },
+                {
+                  "nome": "Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Banana",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Coberturas",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Cobertura de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Leite Condensado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Abacaxi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Limão Galego",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Uva",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Açaí",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Nutella",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Coockies",
+                  "preco": 0
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "acai_na_tigela",
+      "label": "Açaí na Tigela",
+      "type": "Itens principais",
+      "promo": false,
+      "itens": [
+        {
+          "name": "Açaí na Tigela | 300g",
+          "emoji": "🍨",
+          "description": "",
+          "price": 17,
+          "price_old": 20,
+          "image_url": "/uploads/76878dad37e3fa45_1898d5b89ae748c617b1.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "Açaí",
+              "tipo": "radio",
+              "required": false,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "Açaí Tradicional",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Cremes",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Creme de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme Energético",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ninho",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Cupuaçu",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ovomaltine",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Oreo",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Complementos",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 4,
+              "opcoes": [
+                {
+                  "nome": "Disquete",
+                  "preco": 0
+                },
+                {
+                  "nome": "Gotas de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Coco Ralado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Jujuba",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim Doce",
+                  "preco": 0
+                },
+                {
+                  "nome": "Canudos Wafer",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim",
+                  "preco": 0
+                },
+                {
+                  "nome": "Farinha Láctea",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granola",
+                  "preco": 0
+                },
+                {
+                  "nome": "Castanha",
+                  "preco": 0
+                },
+                {
+                  "nome": "Fini",
+                  "preco": 0
+                },
+                {
+                  "nome": "Leite em Pó",
+                  "preco": 0
+                },
+                {
+                  "nome": "Sucrilhos",
+                  "preco": 0
+                },
+                {
+                  "nome": "Chocoball",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Arroz",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granulado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cereja",
+                  "preco": 0
+                },
+                {
+                  "nome": "Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Banana",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Coberturas",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Cobertura de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Leite Condensado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Abacaxi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Limão Galego",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Uva",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Açaí",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Nutella",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Coockies",
+                  "preco": 0
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Açaí na Tigela | 500g",
+          "emoji": "🍨",
+          "description": "",
+          "price": 22,
+          "price_old": 25,
+          "image_url": "/uploads/76878dad37e3fa45_54358e351f76b6e94d20.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "Açaí",
+              "tipo": "radio",
+              "required": false,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "Açaí Tradicional",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Cremes",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Creme de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme Energético",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ninho",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Cupuaçu",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ovomaltine",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Oreo",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Complementos",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 4,
+              "opcoes": [
+                {
+                  "nome": "Disquete",
+                  "preco": 0
+                },
+                {
+                  "nome": "Gotas de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Coco Ralado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Jujuba",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim Doce",
+                  "preco": 0
+                },
+                {
+                  "nome": "Canudos Wafer",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim",
+                  "preco": 0
+                },
+                {
+                  "nome": "Farinha Láctea",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granola",
+                  "preco": 0
+                },
+                {
+                  "nome": "Castanha",
+                  "preco": 0
+                },
+                {
+                  "nome": "Fini",
+                  "preco": 0
+                },
+                {
+                  "nome": "Leite em Pó",
+                  "preco": 0
+                },
+                {
+                  "nome": "Sucrilhos",
+                  "preco": 0
+                },
+                {
+                  "nome": "Chocoball",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Arroz",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granulado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cereja",
+                  "preco": 0
+                },
+                {
+                  "nome": "Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Banana",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Coberturas",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Cobertura de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Leite Condensado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Abacaxi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Limão Galego",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Uva",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Açaí",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Nutella",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Coockies",
+                  "preco": 0
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "acai_montadinho",
+      "label": "Açaí na Tigela Montadinho",
+      "type": "Itens principais",
+      "promo": false,
+      "itens": [
+        {
+          "name": "Açaí da Clara  500g",
+          "emoji": "🍨",
+          "description": "",
+          "price": 25,
+          "price_old": null,
+          "image_url": "/uploads/76878dad37e3fa45_eb78db7ec1417d45568f.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "Açaí",
+              "tipo": "radio",
+              "required": false,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "Açaí Tradicional",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Cremes",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Creme de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme Energético",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ninho",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Cupuaçu",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ovomaltine",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Oreo",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Complementos",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 4,
+              "opcoes": [
+                {
+                  "nome": "Disquete",
+                  "preco": 0
+                },
+                {
+                  "nome": "Gotas de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Coco Ralado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Jujuba",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim Doce",
+                  "preco": 0
+                },
+                {
+                  "nome": "Canudos Wafer",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim",
+                  "preco": 0
+                },
+                {
+                  "nome": "Farinha Láctea",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granola",
+                  "preco": 0
+                },
+                {
+                  "nome": "Castanha",
+                  "preco": 0
+                },
+                {
+                  "nome": "Fini",
+                  "preco": 0
+                },
+                {
+                  "nome": "Leite em Pó",
+                  "preco": 0
+                },
+                {
+                  "nome": "Sucrilhos",
+                  "preco": 0
+                },
+                {
+                  "nome": "Chocoball",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Arroz",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granulado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cereja",
+                  "preco": 0
+                },
+                {
+                  "nome": "Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Banana",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Coberturas",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Cobertura de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Leite Condensado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Abacaxi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Limão Galego",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Uva",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Açaí",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Nutella",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Coockies",
+                  "preco": 0
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Açaí Maromba 500g",
+          "emoji": "💪",
+          "description": "",
+          "price": 25,
+          "price_old": null,
+          "image_url": "/uploads/76878dad37e3fa45_f5381760452344ceda51.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "Açaí",
+              "tipo": "radio",
+              "required": false,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "Açaí Tradicional",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Cremes",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Creme de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme Energético",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ninho",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Cupuaçu",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ovomaltine",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Oreo",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Complementos",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 4,
+              "opcoes": [
+                {
+                  "nome": "Disquete",
+                  "preco": 0
+                },
+                {
+                  "nome": "Gotas de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Coco Ralado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Jujuba",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim Doce",
+                  "preco": 0
+                },
+                {
+                  "nome": "Canudos Wafer",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim",
+                  "preco": 0
+                },
+                {
+                  "nome": "Farinha Láctea",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granola",
+                  "preco": 0
+                },
+                {
+                  "nome": "Castanha",
+                  "preco": 0
+                },
+                {
+                  "nome": "Fini",
+                  "preco": 0
+                },
+                {
+                  "nome": "Leite em Pó",
+                  "preco": 0
+                },
+                {
+                  "nome": "Sucrilhos",
+                  "preco": 0
+                },
+                {
+                  "nome": "Chocoball",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Arroz",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granulado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cereja",
+                  "preco": 0
+                },
+                {
+                  "nome": "Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Banana",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Coberturas",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Cobertura de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Leite Condensado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Abacaxi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Limão Galego",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Uva",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Açaí",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Nutella",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Coockies",
+                  "preco": 0
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Açaí Kids  500g",
+          "emoji": "🧸",
+          "description": "",
+          "price": 25,
+          "price_old": null,
+          "image_url": "/uploads/76878dad37e3fa45_1898d5b89ae748c617b1.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "Açaí",
+              "tipo": "radio",
+              "required": false,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "Açaí Tradicional",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Cremes",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Creme de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme Energético",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ninho",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Cupuaçu",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ovomaltine",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Oreo",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Complementos",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 4,
+              "opcoes": [
+                {
+                  "nome": "Disquete",
+                  "preco": 0
+                },
+                {
+                  "nome": "Gotas de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Coco Ralado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Jujuba",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim Doce",
+                  "preco": 0
+                },
+                {
+                  "nome": "Canudos Wafer",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim",
+                  "preco": 0
+                },
+                {
+                  "nome": "Farinha Láctea",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granola",
+                  "preco": 0
+                },
+                {
+                  "nome": "Castanha",
+                  "preco": 0
+                },
+                {
+                  "nome": "Fini",
+                  "preco": 0
+                },
+                {
+                  "nome": "Leite em Pó",
+                  "preco": 0
+                },
+                {
+                  "nome": "Sucrilhos",
+                  "preco": 0
+                },
+                {
+                  "nome": "Chocoball",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Arroz",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granulado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cereja",
+                  "preco": 0
+                },
+                {
+                  "nome": "Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Banana",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Coberturas",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Cobertura de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Leite Condensado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Abacaxi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Limão Galego",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Uva",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Açaí",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Nutella",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Coockies",
+                  "preco": 0
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Açaí da Lory  500g",
+          "emoji": "⭐",
+          "description": "",
+          "price": 25,
+          "price_old": null,
+          "image_url": "/uploads/76878dad37e3fa45_f5381760452344ceda51.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "Açaí",
+              "tipo": "radio",
+              "required": false,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "Açaí Tradicional",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Cremes",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Creme de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme Energético",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ninho",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Cupuaçu",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ovomaltine",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Oreo",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Complementos",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 4,
+              "opcoes": [
+                {
+                  "nome": "Disquete",
+                  "preco": 0
+                },
+                {
+                  "nome": "Gotas de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Coco Ralado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Jujuba",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim Doce",
+                  "preco": 0
+                },
+                {
+                  "nome": "Canudos Wafer",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim",
+                  "preco": 0
+                },
+                {
+                  "nome": "Farinha Láctea",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granola",
+                  "preco": 0
+                },
+                {
+                  "nome": "Castanha",
+                  "preco": 0
+                },
+                {
+                  "nome": "Fini",
+                  "preco": 0
+                },
+                {
+                  "nome": "Leite em Pó",
+                  "preco": 0
+                },
+                {
+                  "nome": "Sucrilhos",
+                  "preco": 0
+                },
+                {
+                  "nome": "Chocoball",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Arroz",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granulado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cereja",
+                  "preco": 0
+                },
+                {
+                  "nome": "Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Banana",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Coberturas",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Cobertura de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Leite Condensado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Abacaxi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Limão Galego",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Uva",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Açaí",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Nutella",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Coockies",
+                  "preco": 0
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Açaí Bagaceira  500g",
+          "emoji": "🎉",
+          "description": "",
+          "price": 25,
+          "price_old": null,
+          "image_url": "/uploads/76878dad37e3fa45_eb78db7ec1417d45568f.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "Açaí",
+              "tipo": "radio",
+              "required": false,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "Açaí Tradicional",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Cremes",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Creme de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme Energético",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ninho",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Cupuaçu",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ovomaltine",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Oreo",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Complementos",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 4,
+              "opcoes": [
+                {
+                  "nome": "Disquete",
+                  "preco": 0
+                },
+                {
+                  "nome": "Gotas de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Coco Ralado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Jujuba",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim Doce",
+                  "preco": 0
+                },
+                {
+                  "nome": "Canudos Wafer",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim",
+                  "preco": 0
+                },
+                {
+                  "nome": "Farinha Láctea",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granola",
+                  "preco": 0
+                },
+                {
+                  "nome": "Castanha",
+                  "preco": 0
+                },
+                {
+                  "nome": "Fini",
+                  "preco": 0
+                },
+                {
+                  "nome": "Leite em Pó",
+                  "preco": 0
+                },
+                {
+                  "nome": "Sucrilhos",
+                  "preco": 0
+                },
+                {
+                  "nome": "Chocoball",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Arroz",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granulado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cereja",
+                  "preco": 0
+                },
+                {
+                  "nome": "Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Banana",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Coberturas",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Cobertura de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Leite Condensado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Abacaxi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Limão Galego",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Uva",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Açaí",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Nutella",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Coockies",
+                  "preco": 0
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Açaí Havaiano  500g",
+          "emoji": "🌺",
+          "description": "",
+          "price": 25,
+          "price_old": null,
+          "image_url": "/uploads/76878dad37e3fa45_f5381760452344ceda51.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "Açaí",
+              "tipo": "radio",
+              "required": false,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "Açaí Tradicional",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Cremes",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Creme de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme Energético",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ninho",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Cupuaçu",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ovomaltine",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Oreo",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Complementos",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 4,
+              "opcoes": [
+                {
+                  "nome": "Disquete",
+                  "preco": 0
+                },
+                {
+                  "nome": "Gotas de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Coco Ralado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Jujuba",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim Doce",
+                  "preco": 0
+                },
+                {
+                  "nome": "Canudos Wafer",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim",
+                  "preco": 0
+                },
+                {
+                  "nome": "Farinha Láctea",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granola",
+                  "preco": 0
+                },
+                {
+                  "nome": "Castanha",
+                  "preco": 0
+                },
+                {
+                  "nome": "Fini",
+                  "preco": 0
+                },
+                {
+                  "nome": "Leite em Pó",
+                  "preco": 0
+                },
+                {
+                  "nome": "Sucrilhos",
+                  "preco": 0
+                },
+                {
+                  "nome": "Chocoball",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Arroz",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granulado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cereja",
+                  "preco": 0
+                },
+                {
+                  "nome": "Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Banana",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Coberturas",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Cobertura de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Leite Condensado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Abacaxi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Limão Galego",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Uva",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Açaí",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Nutella",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Coockies",
+                  "preco": 0
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Açaí Comprometido  500g",
+          "emoji": "❤️",
+          "description": "",
+          "price": 25,
+          "price_old": null,
+          "image_url": "/uploads/76878dad37e3fa45_f5381760452344ceda51.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "Açaí",
+              "tipo": "radio",
+              "required": false,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "Açaí Tradicional",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Cremes",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Creme de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme Energético",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ninho",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Cupuaçu",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Ovomaltine",
+                  "preco": 0
+                },
+                {
+                  "nome": "Creme de Oreo",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Complementos",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 4,
+              "opcoes": [
+                {
+                  "nome": "Disquete",
+                  "preco": 0
+                },
+                {
+                  "nome": "Gotas de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Coco Ralado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Jujuba",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim Doce",
+                  "preco": 0
+                },
+                {
+                  "nome": "Canudos Wafer",
+                  "preco": 0
+                },
+                {
+                  "nome": "Amendoim",
+                  "preco": 0
+                },
+                {
+                  "nome": "Farinha Láctea",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granola",
+                  "preco": 0
+                },
+                {
+                  "nome": "Castanha",
+                  "preco": 0
+                },
+                {
+                  "nome": "Fini",
+                  "preco": 0
+                },
+                {
+                  "nome": "Leite em Pó",
+                  "preco": 0
+                },
+                {
+                  "nome": "Sucrilhos",
+                  "preco": 0
+                },
+                {
+                  "nome": "Chocoball",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Arroz",
+                  "preco": 0
+                },
+                {
+                  "nome": "Granulado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Flocos de Tapioca",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cereja",
+                  "preco": 0
+                },
+                {
+                  "nome": "Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Banana",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "Coberturas",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Cobertura de Chocolate",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Leite Condensado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Morango",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Abacaxi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Limão Galego",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Uva",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Kiwi",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Açaí",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Nutella",
+                  "preco": 0
+                },
+                {
+                  "nome": "Cobertura de Coockies",
+                  "preco": 0
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

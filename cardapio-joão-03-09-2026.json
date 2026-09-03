@@ -1,0 +1,1098 @@
+{
+  "_versao": 1,
+  "_exportado": "2026-09-03T22:57:05.846Z",
+  "_nome": "João",
+  "categorias": [
+    {
+      "name": "assados",
+      "label": "Assados",
+      "type": "Itens principais",
+      "promo": false,
+      "itens": [
+        {
+          "name": "Frango Assado Inteiro",
+          "emoji": "🍗",
+          "description": "",
+          "price": 28,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6172-1788284144104.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "1/2 Frango Assado",
+          "emoji": "🍗",
+          "description": "",
+          "price": 14,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6173-1788284071413.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "1/4 Frango Assado",
+          "emoji": "🍗",
+          "description": "",
+          "price": 7,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6174-1788284136962.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Linguiça",
+          "emoji": "🌭",
+          "description": "",
+          "price": 3.5,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6175-1788284127283.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Tilápia sem Espinha",
+          "emoji": "🐟",
+          "description": "",
+          "price": 38,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6176-1788284176879.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "1/2 Tilápia sem Espinha",
+          "emoji": "🐟",
+          "description": "",
+          "price": 20,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6177-1788284198032.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Maminha - R$80 KG",
+          "emoji": "🥩",
+          "description": "",
+          "price": 0,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6178-1788284225210.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "Quantidade (R$8.00/100g — mín. 200g)",
+              "tipo": "checkbox",
+              "required": true,
+              "min": 1,
+              "max": 10,
+              "opcoes": [
+                {
+                  "nome": "100g",
+                  "preco": 8
+                },
+                {
+                  "nome": "200g",
+                  "preco": 16
+                },
+                {
+                  "nome": "300g",
+                  "preco": 24
+                },
+                {
+                  "nome": "400g",
+                  "preco": 32
+                },
+                {
+                  "nome": "500g",
+                  "preco": 40
+                },
+                {
+                  "nome": "600g",
+                  "preco": 48
+                },
+                {
+                  "nome": "700g",
+                  "preco": 56
+                },
+                {
+                  "nome": "800g",
+                  "preco": 64
+                },
+                {
+                  "nome": "900g",
+                  "preco": 72
+                },
+                {
+                  "nome": "1000g",
+                  "preco": 80
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Suíno R$45,00/kg",
+          "emoji": "🥩",
+          "description": "",
+          "price": 0,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6179-1788284255177.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "Quantidade (R$8.00/100g — mín. 200g)",
+              "tipo": "checkbox",
+              "required": true,
+              "min": 1,
+              "max": 10,
+              "opcoes": [
+                {
+                  "nome": "100g",
+                  "preco": 4.5
+                },
+                {
+                  "nome": "200g",
+                  "preco": 9
+                },
+                {
+                  "nome": "300g",
+                  "preco": 13.5
+                },
+                {
+                  "nome": "400g",
+                  "preco": 18
+                },
+                {
+                  "nome": "500g",
+                  "preco": 22.5
+                },
+                {
+                  "nome": "600g",
+                  "preco": 27
+                },
+                {
+                  "nome": "700g",
+                  "preco": 31.5
+                },
+                {
+                  "nome": "800g",
+                  "preco": 36
+                },
+                {
+                  "nome": "900g",
+                  "preco": 40.5
+                },
+                {
+                  "nome": "1000g",
+                  "preco": 45
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "quentinhas",
+      "label": "Quentinhas",
+      "type": "Itens principais",
+      "promo": false,
+      "itens": [
+        {
+          "name": "Taxa do cremoso",
+          "emoji": "🍽️",
+          "description": "",
+          "price": 2,
+          "price_old": null,
+          "image_url": null,
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Quentinha de Frango Assado",
+          "emoji": "🍱",
+          "description": "",
+          "price": 17,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6180-1788284306519.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Quentinha de Linguiça",
+          "emoji": "🍱",
+          "description": "",
+          "price": 17,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6181-1788284451587.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Quentinha de Porco",
+          "emoji": "🍱",
+          "description": "",
+          "price": 18,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6182-1788284514032.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Quentinha de Maminha",
+          "emoji": "🍱",
+          "description": "",
+          "price": 22,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6183-1788284538425.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Quentinha Mista",
+          "emoji": "🍱",
+          "description": "",
+          "price": 20,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6184-1788284575907.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "Escolha as duas opções",
+              "tipo": "checkbox",
+              "required": true,
+              "min": 2,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "Frango assado",
+                  "preco": 0
+                },
+                {
+                  "nome": "Linguiça",
+                  "preco": 0
+                },
+                {
+                  "nome": "Maminha",
+                  "preco": 0
+                },
+                {
+                  "nome": "Porco",
+                  "preco": 0
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "guarnicoes",
+      "label": "Guarnições",
+      "type": "Itens principais",
+      "promo": false,
+      "itens": [
+        {
+          "name": "Baião",
+          "emoji": "🍚",
+          "description": "",
+          "price": 10,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6192-1788284672304.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Baião Cremoso",
+          "emoji": "🍚",
+          "description": "",
+          "price": 12,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6193-1788284654566.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Farofa do Sertão",
+          "emoji": "🫙",
+          "description": "",
+          "price": 10,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6295-1788284820445.jpg",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Arroz",
+          "emoji": "🍚",
+          "description": "",
+          "price": 8,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6190-1788284697331.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Batata Frita",
+          "emoji": "🍟",
+          "description": "",
+          "price": 10,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6191-1788284808604.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Meio Baião",
+          "emoji": "🍚",
+          "description": "",
+          "price": 6,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6188-1788285270987.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Meio Baião Cremoso",
+          "emoji": "🍚",
+          "description": "",
+          "price": 7,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6189-1788285280778.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "combos",
+      "label": "Combos",
+      "type": "Itens principais",
+      "promo": false,
+      "itens": [
+        {
+          "name": "Combo 1",
+          "emoji": "🍗",
+          "description": "",
+          "price": 30,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6194-1788284870640.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Combo 2",
+          "emoji": "🍗",
+          "description": "",
+          "price": 49,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6195-1788284895383.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Combo 3",
+          "emoji": "🥩",
+          "description": "",
+          "price": 49,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6196-1788284927616.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Combo 4",
+          "emoji": "🥩",
+          "description": "",
+          "price": 49,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6197-1788284955967.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Combo 5",
+          "emoji": "🍗",
+          "description": "",
+          "price": 55,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6198-1788284983141.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Combo 6",
+          "emoji": "🐟",
+          "description": "",
+          "price": 39,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6199-1788285006983.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Combo 7",
+          "emoji": "🐟",
+          "description": "",
+          "price": 56,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6200-1788285027303.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "bebidas",
+      "label": "Bebidas",
+      "type": "Itens principais",
+      "promo": false,
+      "itens": [
+        {
+          "name": "Água sem Gás",
+          "emoji": "💧",
+          "description": "",
+          "price": 3,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6201-1788285135432.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Água com Gás",
+          "emoji": "💧",
+          "description": "",
+          "price": 3,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6202-1788285141999.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Refrigerante Lata",
+          "emoji": "🥤",
+          "description": "",
+          "price": 0,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6203-1788285106190.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 5,
+              "opcoes": [
+                {
+                  "nome": "Coca-cola lata",
+                  "preco": 6
+                },
+                {
+                  "nome": "Coca-cola Zero lata",
+                  "preco": 6
+                },
+                {
+                  "nome": "Guaraná lata",
+                  "preco": 6
+                },
+                {
+                  "nome": "Cajuína lata",
+                  "preco": 6
+                },
+                {
+                  "nome": "Fanta Uva lata",
+                  "preco": 6
+                },
+                {
+                  "nome": "Fanta Laranja lata",
+                  "preco": 6
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Refrigerante 600ml",
+          "emoji": "🥤",
+          "description": "",
+          "price": 0,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6204-1788285062114.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 7,
+              "opcoes": [
+                {
+                  "nome": "Coca-cola 600ml",
+                  "preco": 7
+                },
+                {
+                  "nome": "Coca-cola Zero 600ml",
+                  "preco": 7
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Refrigerante 1L",
+          "emoji": "🥤",
+          "description": "",
+          "price": 0,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6205-1788285069481.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "Pepsi 1L",
+                  "preco": 9
+                },
+                {
+                  "nome": "Coca-cola 1L",
+                  "preco": 9
+                },
+                {
+                  "nome": "Sukita 1L",
+                  "preco": 9
+                },
+                {
+                  "nome": "Guaraná 1L",
+                  "preco": 9
+                },
+                {
+                  "nome": "Cajuína 1L",
+                  "preco": 9
+                },
+                {
+                  "nome": "Coca-cola Zero 1L",
+                  "preco": 9
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Refrigerante 2L",
+          "emoji": "🥤",
+          "description": "",
+          "price": 0,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6206-1788285083100.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 5,
+              "opcoes": [
+                {
+                  "nome": "Coca-cola 2L",
+                  "preco": 12.5
+                },
+                {
+                  "nome": "Guaraná 2L",
+                  "preco": 12.5
+                },
+                {
+                  "nome": "Cajuína 2L",
+                  "preco": 12.5
+                },
+                {
+                  "nome": "Coca-cola Zero 2L",
+                  "preco": 12.5
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "trufas",
+      "label": "Trufas",
+      "type": "Itens principais",
+      "promo": false,
+      "itens": [
+        {
+          "name": "Trufa",
+          "emoji": "🍽️",
+          "description": "",
+          "price": 3,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6294-1788285246650.jpg",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

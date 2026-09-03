@@ -1,0 +1,59 @@
+{
+  "tipo": "anotai_bairros_entrega",
+  "versao": 1,
+  "exportado_em": "2026-09-03T23:07:27.940Z",
+  "bairros": [
+    {
+      "bairro": "Centro",
+      "taxa": 0
+    },
+    {
+      "bairro": "Lagoa",
+      "taxa": 0
+    },
+    {
+      "bairro": "Juazeiro",
+      "taxa": 0
+    },
+    {
+      "bairro": "Alto",
+      "taxa": 0
+    },
+    {
+      "bairro": "Bairro do Dio",
+      "taxa": 0
+    },
+    {
+      "bairro": "Cardiais",
+      "taxa": 0
+    },
+    {
+      "bairro": "Copeira",
+      "taxa": 0
+    },
+    {
+      "bairro": "Flanboiante",
+      "taxa": 0
+    },
+    {
+      "bairro": "Tubuleiro",
+      "taxa": 0
+    },
+    {
+      "bairro": "Baquite",
+      "taxa": 0
+    },
+    {
+      "bairro": "Dnocs",
+      "taxa": 0
+    },
+    {
+      "bairro": "Córrego das Melancias",
+      "taxa": 0
+    },
+    {
+      "bairro": "Catinguinha",
+      "taxa": 0
+    }
+  ]
+}

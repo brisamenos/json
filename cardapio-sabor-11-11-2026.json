@@ -1,0 +1,1256 @@
+{
+  "_versao": 1,
+  "_exportado": "2026-11-11T13:25:15.719Z",
+  "_nome": "Sabor",
+  "categorias": [
+    {
+      "name": "assados",
+      "label": "CARNES ASSADAS",
+      "type": "Itens principais",
+      "promo": false,
+      "itens": [
+        {
+          "name": "BOI 300G",
+          "emoji": "🥩",
+          "description": "Acompanha farofa e vinagrete",
+          "price": 20,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6564-1789476020580.jpg",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "PORCO  300G",
+          "emoji": "🥩",
+          "description": "Acompanha farofa e vinagrete",
+          "price": 18,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6565-1789476048351.jpg",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "FRANGO ASSADO INTEIRO",
+          "emoji": "🥩",
+          "description": "Acompanha farofa e vinagrete",
+          "price": 35,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6595-1789476562425.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "MEIO FRANGO ASSADO",
+          "emoji": "🥩",
+          "description": "Acompanha farofa e vinagrete",
+          "price": 18,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6596-1789476574705.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "FRANGO (1 UND COXA E SOBRECOXA)",
+          "emoji": "🥩",
+          "description": "Acompanha farofa e vinagrete",
+          "price": 12,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6597-1789476593412.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "MISTO DE CARNES",
+          "emoji": "🥩",
+          "description": "(Boi, porco, frango e linguiça) Acompanha farofa e vinagrete",
+          "price": 20,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6599-1789476619319.jpg",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "LINGUIÇA ASSADA 1 UND",
+          "emoji": "🌭",
+          "description": "",
+          "price": 5,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6561-1789476005884.jpg",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "quentinhas",
+      "label": "MONTE SEU MARMITEX",
+      "type": "Itens principais",
+      "promo": false,
+      "itens": [
+        {
+          "name": "MARMITEX COZIDO 1 PROTEINA",
+          "emoji": "🍱",
+          "description": "Acompanha, salada de legumes, batata doce.",
+          "price": 16,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6567-1789476098174.jpg",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "PROTEINAS COZIDAS",
+              "tipo": "radio",
+              "required": true,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "PICADINHO",
+                  "preco": 0
+                },
+                {
+                  "nome": "PANELADA",
+                  "preco": 0
+                },
+                {
+                  "nome": "SARRABULHO (FIGADO MISTURADO, PORCO)",
+                  "preco": 0
+                },
+                {
+                  "nome": "MIX DE PANELA ACEBOLADO",
+                  "preco": 0
+                },
+                {
+                  "nome": "STROGONOFF DE FRANGO",
+                  "preco": 0
+                },
+                {
+                  "nome": "ASSADO DE PANELA",
+                  "preco": 0
+                },
+                {
+                  "nome": "COSTELA DE BOI",
+                  "preco": 0
+                },
+                {
+                  "nome": "STROGONOFF DE CARNE",
+                  "preco": 0
+                },
+                {
+                  "nome": "ALMÔNDEGAS DE MOLHO",
+                  "preco": 0
+                },
+                {
+                  "nome": "CARNE MOÍDA REFOGADA",
+                  "preco": 0
+                },
+                {
+                  "nome": "BIFE AO MOLHO",
+                  "preco": 0
+                },
+                {
+                  "nome": "FRANGO DA CHEFE",
+                  "preco": 0
+                },
+                {
+                  "nome": "PORCO APERTADO",
+                  "preco": 0
+                },
+                {
+                  "nome": "PANELADA",
+                  "preco": 0
+                },
+                {
+                  "nome": "CARNEIRO",
+                  "preco": 0
+                },
+                {
+                  "nome": "FRANGO COM LEGUMES",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "GUARNIÇÕES",
+              "tipo": "checkbox",
+              "required": true,
+              "min": 0,
+              "max": 3,
+              "opcoes": [
+                {
+                  "nome": "ARROZ BRANCO",
+                  "preco": 0
+                },
+                {
+                  "nome": "BAIÃO DA CASA",
+                  "preco": 0
+                },
+                {
+                  "nome": "MACARRÃO",
+                  "preco": 0
+                },
+                {
+                  "nome": "FEIJÃO CARIOCA",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "FAROFA",
+              "tipo": "radio",
+              "required": false,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "FAROFA DE FARINHA TEMPERADA",
+                  "preco": 0
+                },
+                {
+                  "nome": "FAROFA DE CUSCUZ",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "ADICIONAIS",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 5,
+              "opcoes": [
+                {
+                  "nome": "OVO FRITO",
+                  "preco": 3
+                },
+                {
+                  "nome": "CALABRESA ACEBOLADA",
+                  "preco": 6
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "MARMITEX COZIDO 2 PROTEINAS",
+          "emoji": "🍱",
+          "description": "Acompanha, salada de legumes, batata doce.",
+          "price": 18,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6593-1789476473362.jpg",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "PROTEINAS COZIDAS",
+              "tipo": "checkbox",
+              "required": true,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "PICADINHO",
+                  "preco": 0
+                },
+                {
+                  "nome": "PANELADA",
+                  "preco": 0
+                },
+                {
+                  "nome": "SARRABULHO (FIGADO MISTURADO, PORCO)",
+                  "preco": 0
+                },
+                {
+                  "nome": "MIX DE PANELA ACEBOLADO",
+                  "preco": 0
+                },
+                {
+                  "nome": "STROGONOFF DE FRANGO",
+                  "preco": 0
+                },
+                {
+                  "nome": "ASSADO DE PANELA",
+                  "preco": 0
+                },
+                {
+                  "nome": "COSTELA DE BOI",
+                  "preco": 0
+                },
+                {
+                  "nome": "STROGONOFF DE CARNE",
+                  "preco": 0
+                },
+                {
+                  "nome": "ALMÔNDEGAS DE MOLHO",
+                  "preco": 0
+                },
+                {
+                  "nome": "CARNE MOÍDA REFOGADA",
+                  "preco": 0
+                },
+                {
+                  "nome": "BIFE AO MOLHO",
+                  "preco": 0
+                },
+                {
+                  "nome": "FRANGO DA CHEFE",
+                  "preco": 0
+                },
+                {
+                  "nome": "PORCO APERTADO",
+                  "preco": 0
+                },
+                {
+                  "nome": "PANELADA",
+                  "preco": 0
+                },
+                {
+                  "nome": "CARNEIRO",
+                  "preco": 0
+                },
+                {
+                  "nome": "FRANGO COM LEGUMES",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "GUARNIÇÕES",
+              "tipo": "checkbox",
+              "required": true,
+              "min": 0,
+              "max": 3,
+              "opcoes": [
+                {
+                  "nome": "ARROZ BRANCO",
+                  "preco": 0
+                },
+                {
+                  "nome": "BAIÃO DA CASA",
+                  "preco": 0
+                },
+                {
+                  "nome": "MACARRÃO",
+                  "preco": 0
+                },
+                {
+                  "nome": "FEIJÃO CARIOCA",
+                  "preco": 0
+                },
+                {
+                  "nome": "FAROFA DE FARINHA TEMPERADA",
+                  "preco": 0
+                },
+                {
+                  "nome": "FAROFA DE CUSCUZ",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "FAROFA",
+              "tipo": "radio",
+              "required": false,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "FAROFA DE FARINHA TEMPERADA",
+                  "preco": 0
+                },
+                {
+                  "nome": "FAROFA DE CUSCUZ",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "ADICIONAIS",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 5,
+              "opcoes": [
+                {
+                  "nome": "OVO FRITO",
+                  "preco": 3
+                },
+                {
+                  "nome": "CALABRESA ACEBOLADA",
+                  "preco": 6
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "MARMITEX ASSADO ATE 2 PROTEINAS",
+          "emoji": "🍱",
+          "description": "Acompanha, salada de legumes, batata doce.",
+          "price": 18,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6594-1789476489533.jpg",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "PROTEINAS ASSADO",
+              "tipo": "checkbox",
+              "required": true,
+              "min": 0,
+              "max": 2,
+              "opcoes": [
+                {
+                  "nome": "BOI",
+                  "preco": 0
+                },
+                {
+                  "nome": "PORCO",
+                  "preco": 0
+                },
+                {
+                  "nome": "FRANGO",
+                  "preco": 0
+                },
+                {
+                  "nome": "LINGUIÇA",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "GUARNIÇÕES",
+              "tipo": "checkbox",
+              "required": true,
+              "min": 0,
+              "max": 3,
+              "opcoes": [
+                {
+                  "nome": "ARROZ BRANCO",
+                  "preco": 0
+                },
+                {
+                  "nome": "BAIÃO DA CASA",
+                  "preco": 0
+                },
+                {
+                  "nome": "MACARRÃO",
+                  "preco": 0
+                },
+                {
+                  "nome": "FEIJÃO CARIOCA",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "FAROFA",
+              "tipo": "radio",
+              "required": false,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "FAROFA DE FARINHA TEMPERADA",
+                  "preco": 0
+                },
+                {
+                  "nome": "FAROFA DE CUSCUZ",
+                  "preco": 0
+                }
+              ]
+            },
+            {
+              "nome": "ADICIONAIS",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 5,
+              "opcoes": [
+                {
+                  "nome": "OVO FRITO",
+                  "preco": 3
+                },
+                {
+                  "nome": "CALABRESA ACEBOLADA",
+                  "preco": 6
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "guarnicoes",
+      "label": "GUARNIÇÕES",
+      "type": "Itens principais",
+      "promo": false,
+      "itens": [
+        {
+          "name": "BAIÃO DA CASA",
+          "emoji": "🍚",
+          "description": "",
+          "price": 0,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6601-1789476219903.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "ESCOLHA:",
+              "tipo": "radio",
+              "required": false,
+              "min": 0,
+              "max": 1,
+              "opcoes": [
+                {
+                  "nome": "BAIÃO DA CASA GRANDE",
+                  "preco": 10
+                },
+                {
+                  "nome": "BAIÃO DA CASA PEQUENO",
+                  "preco": 6
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "MACARRÃO",
+          "emoji": "🍚",
+          "description": "",
+          "price": 0,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6605-1789476361840.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "Escolha:",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 4,
+              "opcoes": [
+                {
+                  "nome": "MACARRÃO GRANDE",
+                  "preco": 8
+                },
+                {
+                  "nome": "MACARRÃO PEQUENO",
+                  "preco": 5
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "ARROZ BRANCO",
+          "emoji": "🍚",
+          "description": "",
+          "price": 0,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6575-1789476244545.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "ESCOLHA:",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 5,
+              "opcoes": [
+                {
+                  "nome": "ARROZ BRANCO GRANDE",
+                  "preco": 8
+                },
+                {
+                  "nome": "ARROZ BRANCO PEQUENO",
+                  "preco": 5
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "FEIJÃO CARIOCA TEMPERADO",
+          "emoji": "🍚",
+          "description": "",
+          "price": 0,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6603-1789476392465.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "ESCOLHA:",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 3,
+              "opcoes": [
+                {
+                  "nome": "FEIJÃO CARIOCA  GRANDE",
+                  "preco": 10
+                },
+                {
+                  "nome": "FEIJÃO CARIOCA PEQUENO",
+                  "preco": 6
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "CUSCUZ DA CASA 500ML",
+          "emoji": "🍚",
+          "description": "",
+          "price": 6,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6608-1789476447880.jpg",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "FAROFA DE OVOS 500ML",
+          "emoji": "🍚",
+          "description": "",
+          "price": 10,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6606-1789476419984.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "feijoada_no_pote",
+      "label": "COMIDAS REGIONAIS",
+      "type": "Itens principais",
+      "promo": false,
+      "itens": [
+        {
+          "name": "FEIJOADA NO POTE",
+          "emoji": "🍽️",
+          "description": "700g",
+          "price": 25,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6730-1790422541248.jpg",
+          "status": "esgotado",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "saladas",
+      "label": "SALADAS",
+      "type": "Itens principais",
+      "promo": false,
+      "itens": [
+        {
+          "name": "SALADAS DE LEGUMES 500ML",
+          "emoji": "🍽️",
+          "description": "Batatinha, Cenoura e Batata Doce",
+          "price": 8,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6968-1791239402507.jpg",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "SALADA COM BETERRABA 500ML",
+          "emoji": "🍽️",
+          "description": "Beterraba, Batatinha e Batata Doce",
+          "price": 8,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6969-1791239434776.jpg",
+          "status": "esgotado",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "SALADA CRUA 500ML",
+          "emoji": "🍽️",
+          "description": "",
+          "price": 8,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6970-1791239630754.jpg",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "VINAGRETE 500ML",
+          "emoji": "🍽️",
+          "description": "Tomate, Cebola, Pimentão e e Tempero Especial da Casa",
+          "price": 12,
+          "price_old": null,
+          "image_url": "/uploads/a145ba2ad8e88628_6971-1791239501531.jpg",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "bebidas",
+      "label": "Bebidas",
+      "type": "Itens principais",
+      "promo": false,
+      "itens": [
+        {
+          "name": "Água sem Gás",
+          "emoji": "💧",
+          "description": "",
+          "price": 3,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6201-1788285135432.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Água com Gás",
+          "emoji": "💧",
+          "description": "",
+          "price": 3,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6202-1788285141999.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Refrigerante Lata",
+          "emoji": "🥤",
+          "description": "",
+          "price": 0,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6203-1788285106190.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "",
+              "tipo": "checkbox",
+              "required": true,
+              "min": 0,
+              "max": 5,
+              "opcoes": [
+                {
+                  "nome": "Coca-cola lata",
+                  "preco": 6
+                },
+                {
+                  "nome": "Coca-cola Zero lata",
+                  "preco": 6
+                },
+                {
+                  "nome": "Guaraná lata",
+                  "preco": 6
+                },
+                {
+                  "nome": "Cajuína lata",
+                  "preco": 6
+                },
+                {
+                  "nome": "Fanta Uva lata",
+                  "preco": 6
+                },
+                {
+                  "nome": "Soda lata",
+                  "preco": 6
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Refrigerante 600ml",
+          "emoji": "🥤",
+          "description": "",
+          "price": 0,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6204-1788285062114.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "",
+              "tipo": "checkbox",
+              "required": true,
+              "min": 0,
+              "max": 7,
+              "opcoes": [
+                {
+                  "nome": "Coca-cola 600ml",
+                  "preco": 8
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Refrigerante 1L",
+          "emoji": "🥤",
+          "description": "",
+          "price": 0,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6205-1788285069481.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "",
+              "tipo": "checkbox",
+              "required": true,
+              "min": 0,
+              "max": 4,
+              "opcoes": [
+                {
+                  "nome": "Pepsi 1L",
+                  "preco": 10
+                },
+                {
+                  "nome": "Guaraná 1L",
+                  "preco": 10
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Refrigerante 2L",
+          "emoji": "🥤",
+          "description": "",
+          "price": 0,
+          "price_old": null,
+          "image_url": "/uploads/97629f73eac36336_6206-1788285083100.webp",
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "",
+              "tipo": "checkbox",
+              "required": true,
+              "min": 0,
+              "max": 5,
+              "opcoes": [
+                {
+                  "nome": "Coca-cola 2L",
+                  "preco": 15
+                },
+                {
+                  "nome": "Guaraná 2L",
+                  "preco": 14
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sucos",
+      "label": "SUCOS",
+      "type": "Itens principais",
+      "promo": false,
+      "itens": [
+        {
+          "name": "SUCOS 300ML",
+          "emoji": "🍽️",
+          "description": "",
+          "price": 0,
+          "price_old": null,
+          "image_url": null,
+          "status": "active",
+          "item_type": "normal",
+          "allow_half": false,
+          "max_flavors": 1,
+          "ingredients": [],
+          "custom_groups": [
+            {
+              "nome": "OPÇÕES:",
+              "tipo": "checkbox",
+              "required": false,
+              "min": 0,
+              "max": 10,
+              "opcoes": [
+                {
+                  "nome": "ACEROLA 300ML",
+                  "preco": 5
+                },
+                {
+                  "nome": "GOIABA 300ML",
+                  "preco": 5
+                },
+                {
+                  "nome": "MANGA 300ML",
+                  "preco": 5
+                },
+                {
+                  "nome": "CAJU 300ML",
+                  "preco": 5
+                },
+                {
+                  "nome": "TAMARINDO 300ML",
+                  "preco": 5
+                },
+                {
+                  "nome": "MARACUJÁ 300ML",
+                  "preco": 7
+                }
+              ]
+            }
+          ],
+          "days": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}
